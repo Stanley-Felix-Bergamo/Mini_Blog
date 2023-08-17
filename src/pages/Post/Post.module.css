@@ -1,0 +1,25 @@
+.post_container {
+  text-align: center;
+}
+
+.post_container h1,
+h3 {
+  margin: 1em 0 1em;
+}
+
+.post_container p {
+  margin-top: 1em;
+}
+
+.post_container .tags {
+  display: flex;
+  justify-content: center;
+}
+
+.tags p {
+  margin-right: 1em;
+}
+
+.tags span {
+  font-weight: bold;
+}

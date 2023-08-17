@@ -1,0 +1,14 @@
+.login {
+  text-align: center;
+}
+.login h1 {
+  margin: 1em 0 0.6em;
+}
+
+.login p {
+  color: #aaa;
+}
+
+form {
+  margin-top: 1.5em;
+}

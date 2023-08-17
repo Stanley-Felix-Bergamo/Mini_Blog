@@ -1,0 +1,17 @@
+button {
+  margin-top: 1em;
+}
+.register {
+  text-align: center;
+}
+.register p {
+  color: #aaa;
+}
+
+.titulo {
+  padding-top: 1.5em;
+}
+
+.titulo p {
+  padding: 1.5em 0 1.5em;
+}

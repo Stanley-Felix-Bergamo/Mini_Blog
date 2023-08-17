@@ -1,0 +1,26 @@
+.titulo {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.titulo h2 {
+  font-size: 2.2em;
+  margin: 1em 0 1em;
+}
+
+.titulo p {
+  color: #aaa;
+  margin-bottom: 2em;
+}
+
+.previw_title {
+  margin-bottom: 0.2em;
+  color: #000;
+  font-weight: bold;
+}
+.image_preview {
+  width: 100%;
+  margin-bottom: 1em;
+}
